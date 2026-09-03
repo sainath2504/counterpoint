@@ -1,0 +1,4 @@
+COUNTERPOINT_LOCAL_DEMO=true
+# Optional. Live review requires both values and explicit action in the app.
+# OPENAI_API_KEY=
+# OPENAI_MODEL=

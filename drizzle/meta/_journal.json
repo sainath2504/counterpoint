@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1788454152740,
+      "tag": "0000_jittery_mole_man",
+      "breakpoints": true
+    }
+  ]
+}
