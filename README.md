@@ -4,6 +4,8 @@
 
 Counterpoint is an evidence-backed decision studio. It makes the assumptions behind a recommendation visible, lets you change priorities and remove sources, and preserves a replayable record of what changed.
 
+**[Open the live decision lab](https://counterpoint-decision-lab.sainathv3.chatgpt.site)**
+
 ![Counterpoint — evidence, trade-offs, decisions](public/og.png)
 
 ## Why this is different

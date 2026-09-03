@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 export const metadata: Metadata = {
   metadataBase: new URL(
-    'https://counterpoint-decision-lab.polite-heron-9888.chatgpt.site',
+    'https://counterpoint-decision-lab.sainathv3.chatgpt.site',
   ),
   title: 'Counterpoint — Decision studio',
   description:
